@@ -10,6 +10,8 @@ end
 gem 'rails', '~> 5.1.0'
 # Bootstrap adds style to web pages
 gem 'bootstrap-sass'
+#for assert_template
+gem 'rails-controller-testing'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
 # Use Puma as the app server
