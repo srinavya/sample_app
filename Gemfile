@@ -8,6 +8,7 @@ end
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.1.0'
+gem 'bcrypt'
 # Bootstrap adds style to web pages
 gem 'bootstrap-sass'
 #for assert_template
